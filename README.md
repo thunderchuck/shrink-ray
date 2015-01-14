@@ -2,7 +2,7 @@
 
 ### Introduction
 
-shrink-ray.pl looks through all the video files in the given directories and retranscodes them if it deems them too big.
+shrink-ray.pl looks through all the video files in the given directories and retranscodes them if it deems them too big.  It uses HandBrackCLI's "High Profile".
 
 ### Caveats
 
